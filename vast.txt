@@ -1,0 +1,98 @@
+ID: 8387
+Hourly Earnings: 9.728629e-05
+Daily Earnings: 0.002344342
+Reliability: 0.9932652
+Job Status: Active job
+
+
+ID: 8388
+Hourly Earnings: 0.0412828
+Daily Earnings: 0.994001
+Reliability: 0.9889478
+Job Status: Active job
+
+
+ID: 8773
+Hourly Earnings: 3.983049e-13
+Daily Earnings: 0.1393743
+Reliability: 0.9781911
+Job Status: No job
+
+
+ID: 9041
+Hourly Earnings: 0.003405027
+Daily Earnings: 3.8315
+Reliability: 0.9794303
+Job Status: Active job
+
+
+ID: 9113
+Hourly Earnings: 0.1532452
+Daily Earnings: 3.690046
+Reliability: 0.9886972
+Job Status: Active job
+
+
+ID: 9116
+Hourly Earnings: 0.04951444
+Daily Earnings: 1.443684
+Reliability: 0.9884188
+Job Status: Active job
+
+
+ID: 9132
+Hourly Earnings: 0.1340578
+Daily Earnings: 2.943721
+Reliability: 0.9894263
+Job Status: Active job
+
+
+ID: 9134
+Hourly Earnings: 5.925808e-20
+Daily Earnings: 0.003460794
+Reliability: 0.9700983
+Job Status: No job
+
+
+ID: 9135
+Hourly Earnings: 0.01153019
+Daily Earnings: 0.6832599
+Reliability: 0.9814309
+Job Status: No job
+
+
+ID: 9240
+Hourly Earnings: 0.003464355
+Daily Earnings: 0.08344192
+Reliability: 0.9746901
+Job Status: Active job
+
+
+ID: 9251
+Hourly Earnings: 0.2074146
+Daily Earnings: 4.99234
+Reliability: 0.9840959
+Job Status: Active job
+
+
+ID: 9619
+Hourly Earnings: 1.869228e-08
+Daily Earnings: 0.4601445
+Reliability: 0.9677885
+Job Status: No job
+
+
+ID: 9654
+Hourly Earnings: 3.336198e-10
+Daily Earnings: 0.009858994
+Reliability: 0.9461247
+Job Status: No job
+
+
+ID: 9864
+Hourly Earnings: 1.86921e-08
+Daily Earnings: 0.3533491
+Reliability: 0.9655717
+Job Status: No job
+
+
